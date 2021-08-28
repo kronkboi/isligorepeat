@@ -15,5 +15,12 @@
     "url": "https://github.com/kronkboi/isligorepeat/issues"
   },
   "homepage": "https://github.com/kronkboi/isligorepeat#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3",
+    "express-session": "^1.17.2",
+    "init": "^0.1.2"
+  }
 }
